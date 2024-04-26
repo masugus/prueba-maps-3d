@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple Heart Ring
+* source:	https://sketchfab.com/3d-models/simple-heart-ring-a7ff104a9de14262a2ae0afbbcbef576
+* author:	MARCOGALLEG1446 (https://sketchfab.com/MARCOGALLEG1446)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple Heart Ring" (https://sketchfab.com/3d-models/simple-heart-ring-a7ff104a9de14262a2ae0afbbcbef576) by MARCOGALLEG1446 (https://sketchfab.com/MARCOGALLEG1446) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Balloons in the shape of a heart
+* source:	https://sketchfab.com/3d-models/balloons-in-the-shape-of-a-heart-58d36a28dfe34e0289134ab573c7cfba
+* author:	Technics Polemics (https://sketchfab.com/technics.polemics)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Balloons in the shape of a heart" (https://sketchfab.com/3d-models/balloons-in-the-shape-of-a-heart-58d36a28dfe34e0289134ab573c7cfba) by Technics Polemics (https://sketchfab.com/technics.polemics) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
